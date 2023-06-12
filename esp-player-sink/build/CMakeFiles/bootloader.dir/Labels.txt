@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader-complete.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

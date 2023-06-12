@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

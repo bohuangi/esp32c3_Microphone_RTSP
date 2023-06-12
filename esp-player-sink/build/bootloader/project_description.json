@@ -1,0 +1,22 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/root/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/build/bootloader",
+    "config_file":        "/home/FreeRTOS_research_esp32c3_Microphone_RTSP2/esp-player-sink/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v5.0-dev-3485-g20f5e180ee-dirty",
+    "target":             "esp32c3",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "riscv32-esp-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/root/esp/esp-idf/components/efuse/Kconfig;/root/esp/esp-idf/components/esp_common/Kconfig;/root/esp/esp-idf/components/esp_hw_support/Kconfig;/root/esp/esp-idf/components/esp_system/Kconfig;/root/esp/esp-idf/components/freertos/Kconfig;/root/esp/esp-idf/components/hal/Kconfig;/root/esp/esp-idf/components/log/Kconfig;/root/esp/esp-idf/components/newlib/Kconfig;/root/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/root/esp/esp-idf/components/bootloader/Kconfig.projbuild;/root/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/root/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/root/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "riscv", "soc", "spi_flash", "" ],
+    "build_component_paths" : [ "/root/esp/esp-idf/components/bootloader", "/root/esp/esp-idf/components/bootloader_support", "/root/esp/esp-idf/components/efuse", "/root/esp/esp-idf/components/esp_common", "/root/esp/esp-idf/components/esp_hw_support", "/root/esp/esp-idf/components/esp_rom", "/root/esp/esp-idf/components/esp_system", "/root/esp/esp-idf/components/esptool_py", "/root/esp/esp-idf/components/freertos", "/root/esp/esp-idf/components/hal", "/root/esp/esp-idf/components/log", "/root/esp/esp-idf/components/bootloader/subproject/main", "/root/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/root/esp/esp-idf/components/newlib", "/root/esp/esp-idf/components/partition_table", "/root/esp/esp-idf/components/riscv", "/root/esp/esp-idf/components/soc", "/root/esp/esp-idf/components/spi_flash", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
